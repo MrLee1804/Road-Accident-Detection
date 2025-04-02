@@ -1,0 +1,157 @@
+2025-03-30 13:28:08,432 - INFO - Successfully initialized camera 0 with backend 700
+2025-03-30 13:28:09,052 - INFO - Camera 0 initialized successfully
+2025-03-30 13:28:09,089 - INFO - Successfully initialized camera 0
+2025-03-30 13:28:09,093 - INFO - Successfully initialized 1 cameras
+2025-03-30 13:28:09,347 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-30 13:28:09,358 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-30 13:28:09,365 - INFO -  * Restarting with stat
+2025-03-30 13:28:19,988 - INFO - Successfully initialized camera 0 with backend 700
+2025-03-30 13:28:20,472 - INFO - Camera 0 initialized successfully
+2025-03-30 13:28:20,528 - INFO - Successfully initialized camera 0
+2025-03-30 13:28:20,532 - INFO - Successfully initialized 1 cameras
+2025-03-30 13:28:20,711 - WARNING -  * Debugger is active!
+2025-03-30 13:28:20,737 - INFO -  * Debugger PIN: 139-759-334
+2025-03-30 13:28:28,650 - INFO - 127.0.0.1 - - [30/Mar/2025 13:28:28] "GET / HTTP/1.1" 200 -
+2025-03-30 13:28:29,899 - INFO - 127.0.0.1 - - [30/Mar/2025 13:28:29] "GET /socket.io/?EIO=4&transport=polling&t=PNc3ovp HTTP/1.1" 200 -
+2025-03-30 13:28:30,311 - INFO - 127.0.0.1 - - [30/Mar/2025 13:28:30] "POST /socket.io/?EIO=4&transport=polling&t=PNc3p2g&sid=1SDfNyiD_ct4o3azAAAA HTTP/1.1" 200 -
+2025-03-30 13:28:30,356 - INFO - 127.0.0.1 - - [30/Mar/2025 13:28:30] "GET /socket.io/?EIO=4&transport=polling&t=PNc3p2s&sid=1SDfNyiD_ct4o3azAAAA HTTP/1.1" 200 -
+2025-03-30 13:28:44,289 - INFO - 127.0.0.1 - - [30/Mar/2025 13:28:44] "GET /api/analytics HTTP/1.1" 200 -
+2025-03-30 13:28:45,385 - INFO - 127.0.0.1 - - [30/Mar/2025 13:28:45] "GET /api/history HTTP/1.1" 200 -
+2025-03-30 13:28:46,807 - INFO - 127.0.0.1 - - [30/Mar/2025 13:28:46] "GET /api/settings HTTP/1.1" 200 -
+2025-03-30 13:29:10,830 - INFO - 127.0.0.1 - - [30/Mar/2025 13:29:10] "GET /socket.io/?EIO=4&transport=websocket&sid=1SDfNyiD_ct4o3azAAAA HTTP/1.1" 200 -
+2025-03-30 13:29:10,881 - INFO - 127.0.0.1 - - [30/Mar/2025 13:29:10] "GET / HTTP/1.1" 200 -
+2025-03-30 13:29:11,520 - INFO - 127.0.0.1 - - [30/Mar/2025 13:29:11] "GET /socket.io/?EIO=4&transport=polling&t=PNc3z8i HTTP/1.1" 200 -
+2025-03-30 13:29:11,726 - INFO - 127.0.0.1 - - [30/Mar/2025 13:29:11] "POST /socket.io/?EIO=4&transport=polling&t=PNc3zCL&sid=43VRVd865uUCZ5QRAAAC HTTP/1.1" 200 -
+2025-03-30 13:29:11,821 - INFO - 127.0.0.1 - - [30/Mar/2025 13:29:11] "GET /socket.io/?EIO=4&transport=polling&t=PNc3zCO&sid=43VRVd865uUCZ5QRAAAC HTTP/1.1" 200 -
+2025-03-30 13:29:37,446 - INFO - 127.0.0.1 - - [30/Mar/2025 13:29:37] "GET /socket.io/?EIO=4&transport=websocket&sid=43VRVd865uUCZ5QRAAAC HTTP/1.1" 200 -
+2025-03-30 13:30:16,297 - INFO - Successfully initialized camera 0 with backend 700
+2025-03-30 13:30:16,782 - INFO - Camera 0 initialized successfully
+2025-03-30 13:30:16,819 - INFO - Successfully initialized camera 0
+2025-03-30 13:30:16,824 - INFO - Successfully initialized 1 cameras
+2025-03-30 13:30:17,072 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-30 13:30:17,125 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-30 13:30:17,140 - INFO -  * Restarting with stat
+2025-03-30 13:30:22,827 - INFO - Successfully initialized camera 0 with backend 700
+2025-03-30 13:30:23,564 - INFO - Camera 0 initialized successfully
+2025-03-30 13:30:23,640 - INFO - Successfully initialized camera 0
+2025-03-30 13:30:23,653 - INFO - Successfully initialized 1 cameras
+2025-03-30 13:30:23,865 - WARNING -  * Debugger is active!
+2025-03-30 13:30:23,890 - INFO -  * Debugger PIN: 139-759-334
+2025-03-30 13:30:41,617 - INFO - 127.0.0.1 - - [30/Mar/2025 13:30:41] "GET / HTTP/1.1" 200 -
+2025-03-30 13:30:42,405 - INFO - 127.0.0.1 - - [30/Mar/2025 13:30:42] "GET /socket.io/?EIO=4&transport=polling&t=PNc4JMI HTTP/1.1" 200 -
+2025-03-30 13:30:42,926 - INFO - 127.0.0.1 - - [30/Mar/2025 13:30:42] "POST /socket.io/?EIO=4&transport=polling&t=PNc4JSk&sid=tzSkYuP4pOBRfHaSAAAA HTTP/1.1" 200 -
+2025-03-30 13:30:42,971 - INFO - 127.0.0.1 - - [30/Mar/2025 13:30:42] "GET /socket.io/?EIO=4&transport=polling&t=PNc4JSv&sid=tzSkYuP4pOBRfHaSAAAA HTTP/1.1" 200 -
+2025-03-30 13:30:50,605 - INFO - 127.0.0.1 - - [30/Mar/2025 13:30:50] "GET /api/analytics HTTP/1.1" 200 -
+2025-03-30 13:30:53,950 - INFO - 127.0.0.1 - - [30/Mar/2025 13:30:53] "GET /api/analytics HTTP/1.1" 200 -
+2025-03-30 13:30:55,487 - INFO - 127.0.0.1 - - [30/Mar/2025 13:30:55] "GET /api/history HTTP/1.1" 200 -
+2025-03-30 13:31:07,887 - INFO - 127.0.0.1 - - [30/Mar/2025 13:31:07] "GET /api/analytics HTTP/1.1" 200 -
+2025-03-30 13:31:17,490 - INFO - 127.0.0.1 - - [30/Mar/2025 13:31:17] "GET /api/history HTTP/1.1" 200 -
+2025-03-30 13:31:21,153 - INFO - 127.0.0.1 - - [30/Mar/2025 13:31:21] "GET /api/settings HTTP/1.1" 200 -
+2025-03-30 13:32:28,617 - INFO - 127.0.0.1 - - [30/Mar/2025 13:32:28] "GET /api/analytics HTTP/1.1" 200 -
+2025-03-30 13:32:32,036 - INFO - 127.0.0.1 - - [30/Mar/2025 13:32:32] "GET /api/history HTTP/1.1" 200 -
+2025-03-30 13:32:33,618 - INFO - 127.0.0.1 - - [30/Mar/2025 13:32:33] "GET /api/settings HTTP/1.1" 200 -
+2025-03-30 13:32:36,968 - INFO - 127.0.0.1 - - [30/Mar/2025 13:32:36] "GET /api/analytics HTTP/1.1" 200 -
+2025-03-30 13:32:55,271 - INFO - 127.0.0.1 - - [30/Mar/2025 13:32:55] "GET /api/analytics HTTP/1.1" 200 -
+2025-03-30 13:32:56,872 - INFO - 127.0.0.1 - - [30/Mar/2025 13:32:56] "GET /api/history HTTP/1.1" 200 -
+2025-03-30 13:32:58,250 - INFO - 127.0.0.1 - - [30/Mar/2025 13:32:58] "GET /api/settings HTTP/1.1" 200 -
+2025-03-30 13:33:22,849 - INFO - 127.0.0.1 - - [30/Mar/2025 13:33:22] "GET /api/analytics HTTP/1.1" 200 -
+2025-03-30 13:33:34,779 - INFO - 127.0.0.1 - - [30/Mar/2025 13:33:34] "GET /api/history HTTP/1.1" 200 -
+2025-03-30 13:33:37,518 - INFO - 127.0.0.1 - - [30/Mar/2025 13:33:37] "GET /api/settings HTTP/1.1" 200 -
+2025-03-30 13:33:58,046 - INFO - 127.0.0.1 - - [30/Mar/2025 13:33:58] "GET /api/analytics HTTP/1.1" 200 -
+2025-03-30 13:34:08,376 - INFO - Started recording accident for camera 0
+2025-03-30 13:34:08,381 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:08,386 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:08,805 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.55 km/h, Acceleration: -0.57 m/s²
+2025-03-30 13:34:08,847 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.55 km/h, Acceleration: -0.58 m/s²
+2025-03-30 13:34:12,718 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:12,868 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.15 km/h, Acceleration: -0.01 m/s²
+2025-03-30 13:34:13,190 - INFO - 127.0.0.1 - - [30/Mar/2025 13:34:13] "GET /api/analytics HTTP/1.1" 200 -
+2025-03-30 13:34:14,018 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:14,303 - WARNING - ALERT: Accident detected on Camera 0! Speed: 12.48 km/h, Acceleration: 9.04 m/s²
+2025-03-30 13:34:18,076 - INFO - 127.0.0.1 - - [30/Mar/2025 13:34:18] "GET /api/history HTTP/1.1" 200 -
+2025-03-30 13:34:18,596 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:18,749 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.20 km/h, Acceleration: 0.04 m/s²
+2025-03-30 13:34:19,144 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:19,348 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.15 km/h, Acceleration: -0.09 m/s²
+2025-03-30 13:34:23,627 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:23,730 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.22 km/h, Acceleration: 0.15 m/s²
+2025-03-30 13:34:24,369 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:24,548 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.31 km/h, Acceleration: 0.39 m/s²
+2025-03-30 13:34:27,566 - INFO - Stopped recording accident for camera 0
+2025-03-30 13:34:30,582 - INFO - Started recording accident for camera 0
+2025-03-30 13:34:30,583 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:30,723 - WARNING - ALERT: Accident detected on Camera 0! Speed: 1.20 km/h, Acceleration: 3.65 m/s²
+2025-03-30 13:34:33,838 - INFO - 127.0.0.1 - - [30/Mar/2025 13:34:33] "GET /api/analytics HTTP/1.1" 200 -
+2025-03-30 13:34:36,275 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:36,429 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.02 km/h, Acceleration: -0.49 m/s²
+2025-03-30 13:34:37,806 - INFO - 127.0.0.1 - - [30/Mar/2025 13:34:37] "GET /api/settings HTTP/1.1" 200 -
+2025-03-30 13:34:38,231 - INFO - Started recording accident for camera 0
+2025-03-30 13:34:38,262 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:38,469 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.89 km/h, Acceleration: 1.17 m/s²
+2025-03-30 13:34:39,461 - INFO - 127.0.0.1 - - [30/Mar/2025 13:34:39] "GET /api/history HTTP/1.1" 200 -
+2025-03-30 13:34:41,566 - INFO - 127.0.0.1 - - [30/Mar/2025 13:34:41] "GET /api/analytics HTTP/1.1" 200 -
+2025-03-30 13:34:42,518 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:42,849 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.40 km/h, Acceleration: 0.20 m/s²
+2025-03-30 13:34:43,274 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:43,411 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.19 km/h, Acceleration: 0.01 m/s²
+2025-03-30 13:34:45,480 - INFO - Stopped recording accident for camera 0
+2025-03-30 13:34:45,838 - INFO - Stopped recording accident for camera 0
+2025-03-30 13:34:49,322 - INFO - Started recording accident for camera 0
+2025-03-30 13:34:49,328 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:49,329 - INFO - Started recording accident for camera 0
+2025-03-30 13:34:49,346 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:49,400 - WARNING - ALERT: Accident detected on Camera 0! Speed: 1.00 km/h, Acceleration: 2.63 m/s²
+2025-03-30 13:34:49,426 - WARNING - ALERT: Accident detected on Camera 0! Speed: 1.00 km/h, Acceleration: 2.94 m/s²
+2025-03-30 13:34:51,489 - INFO - 127.0.0.1 - - [30/Mar/2025 13:34:51] "GET /api/analytics HTTP/1.1" 200 -
+2025-03-30 13:34:54,458 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:54,547 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:54,648 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.81 km/h, Acceleration: 0.13 m/s²
+2025-03-30 13:34:54,769 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.81 km/h, Acceleration: 0.10 m/s²
+2025-03-30 13:34:56,844 - INFO - 127.0.0.1 - - [30/Mar/2025 13:34:56] "GET /api/history HTTP/1.1" 200 -
+2025-03-30 13:34:59,496 - WARNING - Accident detected on camera 0
+2025-03-30 13:34:59,657 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.30 km/h, Acceleration: 0.40 m/s²
+2025-03-30 13:34:59,887 - WARNING - Accident detected on camera 0
+2025-03-30 13:35:00,054 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.24 km/h, Acceleration: -0.15 m/s²
+2025-03-30 13:35:00,968 - INFO - 127.0.0.1 - - [30/Mar/2025 13:35:00] "GET /api/settings HTTP/1.1" 200 -
+2025-03-30 13:35:04,696 - WARNING - Accident detected on camera 0
+2025-03-30 13:35:05,014 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.27 km/h, Acceleration: -0.28 m/s²
+2025-03-30 13:35:05,317 - WARNING - Accident detected on camera 0
+2025-03-30 13:35:05,434 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.50 km/h, Acceleration: 0.57 m/s²
+2025-03-30 13:35:09,806 - WARNING - Accident detected on camera 0
+2025-03-30 13:35:09,982 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.23 km/h, Acceleration: -2.28 m/s²
+2025-03-30 13:35:10,321 - WARNING - Accident detected on camera 0
+2025-03-30 13:35:10,472 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.21 km/h, Acceleration: -0.05 m/s²
+2025-03-30 13:35:12,621 - INFO - Stopped recording accident for camera 0
+2025-03-30 13:35:13,200 - INFO - Stopped recording accident for camera 0
+2025-03-30 13:35:24,102 - INFO - Started recording accident for camera 0
+2025-03-30 13:35:24,107 - WARNING - Accident detected on camera 0
+2025-03-30 13:35:24,117 - INFO - Started recording accident for camera 0
+2025-03-30 13:35:24,121 - WARNING - Accident detected on camera 0
+2025-03-30 13:35:24,329 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.41 km/h, Acceleration: 1.61 m/s²
+2025-03-30 13:35:24,389 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.41 km/h, Acceleration: 1.52 m/s²
+2025-03-30 13:35:29,255 - WARNING - Accident detected on camera 0
+2025-03-30 13:35:29,300 - WARNING - Accident detected on camera 0
+2025-03-30 13:35:29,322 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.92 km/h, Acceleration: 2.96 m/s²
+2025-03-30 13:35:29,425 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.92 km/h, Acceleration: 2.71 m/s²
+2025-03-30 13:35:31,512 - INFO - Stopped recording accident for camera 0
+2025-03-30 13:35:33,182 - INFO - Stopped recording accident for camera 0
+2025-03-30 13:35:45,623 - INFO - Started recording accident for camera 0
+2025-03-30 13:35:45,627 - WARNING - Accident detected on camera 0
+2025-03-30 13:35:45,666 - INFO - Started recording accident for camera 0
+2025-03-30 13:35:45,715 - WARNING - Accident detected on camera 0
+2025-03-30 13:35:45,747 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.84 km/h, Acceleration: 0.48 m/s²
+2025-03-30 13:35:45,824 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.84 km/h, Acceleration: 2.83 m/s²
+2025-03-30 13:35:48,264 - INFO - Stopped recording accident for camera 0
+2025-03-30 13:35:50,289 - INFO - 127.0.0.1 - - [30/Mar/2025 13:35:50] "GET /socket.io/?EIO=4&transport=websocket&sid=tzSkYuP4pOBRfHaSAAAA HTTP/1.1" 200 -
+2025-03-30 13:35:51,310 - INFO - Started recording accident for camera 0
+2025-03-30 13:35:51,321 - WARNING - Accident detected on camera 0
+2025-03-30 13:35:51,351 - WARNING - Accident detected on camera 0
+2025-03-30 13:35:51,464 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.17 km/h, Acceleration: 0.06 m/s²
+2025-03-30 13:35:51,471 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.17 km/h, Acceleration: 0.06 m/s²
+2025-03-30 13:35:53,516 - INFO - Stopped recording accident for camera 0
+2025-03-30 13:35:55,183 - INFO - Stopped recording accident for camera 0
+2025-03-30 13:35:59,614 - INFO - Started recording accident for camera 0
+2025-03-30 13:35:59,622 - WARNING - Accident detected on camera 0
+2025-03-30 13:35:59,834 - WARNING - ALERT: Accident detected on Camera 0! Speed: 0.71 km/h, Acceleration: -1.42 m/s²
